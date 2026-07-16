@@ -1,0 +1,17 @@
+# Never commit secrets
+.env
+
+# Virtual environment
+venv/
+
+# Piper binary + voice models (large, download separately per README)
+piper/
+voices/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
