@@ -11,11 +11,11 @@ all through an explicit function allowlist.
 
 ## Demo
 
-> _Add a 20-30 second GIF or short video here showing: hold F9 → ask "is my
-> firewall on, give me a network report, and audit my processes" → spoken
-> response. This is the single most persuasive thing in this README — a
-> recruiter or hiring manager can see it work in 15 seconds without installing
-> anything._
+https://github.com/nosword-fish/CIP-voice-assistant/raw/main/demo.mp4
+
+A single voice command — *"is my firewall on, give me a network security
+report, and audit my running processes"* — triggers all three security tools
+in one pass and gets summarized back in spoken, natural language.
 
 ## Why this project exists
 
